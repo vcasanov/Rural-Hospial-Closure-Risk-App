@@ -1,10 +1,10 @@
 ## Project Roadmap - Rural Hospital Closure Risk ##
-[x] 1. Create github team for project
-[x] 2. Create github repository
-[x] 3. Define project goals and parameters in README file
-[x] 4. Download data from https://www.shepscenter.unc.edu/programs-projects/rural-health/rural-hospital-closures/
-[x] 5. Convert data to .csv
-6. install and run panda for dataset
+1. DONE. Create github team for project - Victor
+2. DONE. Create github repository - Victor
+3. DONE. Define project goals and parameters in README file - Victor
+4. DONE. Download data from https://www.shepscenter.unc.edu/programs-projects/rural-health/rural-hospital-closures/ -Francis
+5. DONE. Convert data to .csv - Francis
+6. Install and run panda for dataset
 7. Write and test code to import dataset
 8. Make any modifications to dataset
 9. Review and select one of the following plotting tools in python and determine best tool to achieve goal of project: matploblib or plotly
