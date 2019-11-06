@@ -6,7 +6,9 @@
 5. DONE. Convert data to .csv - Francis
 6. Install and run panda for dataset
 7. Write and test code to import dataset
-8. Make any modifications to dataset
-9. Review and select one of the following plotting tools in python and determine best tool to achieve goal of project: matploblib or plotly
-10. Search github for code to display barcharts and/or line graphs for selected dashboard tool - Plotly and Plotlyexpress; utilized github repositories and online user guides
-11. Write documentation for final project and create short presentation about the project
+8. Make any modifications to dataset to remove missing data
+9. Use code to analyze dataset to help determine which variables factor into a hospital's closure
+10. 
+. Review and select one of the plotting tools in python and determine best tool to achieve goal of project: matploblib or plotly
+. Search github for code to display barcharts and/or line graphs for selected dashboard tool - Plotly and Plotlyexpress; utilized github repositories and online user guides
+. Write documentation for final project and create short presentation about the project
