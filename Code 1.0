@@ -10,3 +10,4 @@ df
 df.dropna(how='any')
 # creating the first 30 columns
 df[0:30]
+# rename df by new_data after droping missing data
