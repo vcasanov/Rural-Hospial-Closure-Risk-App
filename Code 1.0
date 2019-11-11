@@ -10,7 +10,6 @@ df
 df.dropna(how='any')
 # creating the first 30 columns
 df[0:30]
-<<<<<<< patch-5
 # rename df by new_data after droping missing data
 #What is the current status of Hospital the most affected by closure?
 new_data['Current Status'].value_counts()
