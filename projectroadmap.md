@@ -5,8 +5,8 @@
 4. DONE. Download data from https://www.shepscenter.unc.edu/programs-projects/rural-health/rural-hospital-closures/ -Francis
 5. DONE. Convert data to .csv - Francis
 6. DONE. Watch pandas tutorial from https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python. Install and run pandas for dataset - Francis
-7. Write and test code to import dataset
-8. Make any modifications to dataset to remove missing data
+7. DONE. Write and test code to import dataset
+8. DONE. Make any modifications to dataset to remove missing data
 9. Use code to analyze dataset to help determine which variables factor into a hospital's closure. 
 10. Separate variables on supposed impact to hospital closure.
 11. 
