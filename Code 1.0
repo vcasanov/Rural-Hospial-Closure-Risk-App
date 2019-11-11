@@ -21,3 +21,4 @@ df_state.plot.hist(alpha = 0.5)
 df_state.diff().hist(color = 'k', alpha = 0.5, bins = 50)
 df_state.plot.pie(figsize = (7, 7))
 df_current = new_data['Current Status'].value_counts()
+
