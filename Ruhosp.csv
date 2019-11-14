@@ -1,0 +1,324 @@
+,Hospital,City,State,RUCAii,CBSAiii,"Medicare
+Payment
+Type iv","Closure
+Month","Closure
+Year",# of Beds,Current Status
+160,"Texas General- Van Zandt
+Regional Medical Center",Grand Saline,Texas,7,Neither,PPS,August,2019,1,Clinic services
+159,Hamlin Memorial Hospital,Hamlin,Texas,10.1,Metro,MDH,July,2019,25,"Clinic, labs,
+imaging, and EMS"
+158,Sitka Community Hospital,Sitka,Alaska,7,Neither,CAH,July,2019,12,"Primary and long-
+term care and
+physical therapy"
+157,Chillicothe Hospital,Chillicothe,Texas,10.2,Neither,CAH,July,2019,21,Clinic services
+156,Fayette Regional Health System,Connersville,Indiana,4,Micro,PPS,July,2019,45,"ED, labs, and
+radiology"
+155,Regional General Hospital,Williston,Florida,2,Neither,PPS,June,2019,20,None
+,,,,,,,,,,"Emergency,"
+,Albert Lea- Mayo Clinic Health,,,,,,,,,"outpatient,"
+154,,Albert Lea,Minnesota,4,Micro,SCH,June,2019,142,
+,System,,,,,,,,,"primary care, and"
+,,,,,,,,,,labor & delivery
+153,"Jamestown Regional Medical
+Center",Jamestown,Tennessee,10.2,Neither,SCH,June,2019,54,None
+152,De Queen Medical Center,De Queen,Arkansas,7,Neither,CAH,May,2019,25,None
+151,Mercy Hospital El Reno,El Reno,Oklahoma,4.1,Metro,PPS,April,2019,48,"Emergency and lab
+and diagnostic
+imaging services"
+150,Takoma Regional Hospital,Greenville,Tennessee,4,Micro,MDH,April,2019,73,"Emergency/urgent,
+outpatient, and
+behavioral health"
+149,Horton Community Hospital,Horton,Kansas,10.3,Neither,CAH,March,2019,15,None
+148,Georgiana Medical Center,Georgiana,Alabama,10.1,Neither,MDH,March,2019,22,None
+147,Cumberland River Hospital,Celina,Tennessee,6,Neither,CAH,March,2019,25,None
+146,I-70 Community Hospital,Sweet Springs,Missouri,10,Micro,CAH,February,2019,15,None
+145,Oswego Community Hospital,Oswego,Kansas,10.2,Micro,CAH,February,2019,12,None
+144,Doctor’s Hospital at Deer Creek,Leesville,Louisiana,7,Micro,PPS,January,2019,10,None
+143,Mercy Hospital Fort Scott,Fort Scott,Kansas,7,Neither,MDH,December,2018,43,"Emergency and
+primary care clinic"
+142,Fairfield Memorial Hospital,Winnsboro,South Carolina,2,Metro,CAH,December,2018,25,None
+141,"Little River Healthcare Cameron
+Hospital",Cameron,Texas,7.1,Neither,PPS,December,2018,34,None
+140,"Little River Healthcare Rockdale
+Hospital",Rockdale,Texas,7.1,Neither,CAH,December,2018,25,None
+139,Adventist Health Feather River,Paradise,California,4.1,Metro,MDH,November,2018,100,None
+138,Latimer County General Hospital,Wilburton,Oklahoma,7,Neither,MDH,October,2018,33,None
+137,"Southeast Health Center of
+Ripley County",Doniphan,Missouri,10.2,Neither,MDH,October,2018,21,"Outpatient
+Services"
+136,Pauls Valley General Hospital,Pauls Valley,Oklahoma,7,Neither,SCH,October,2018,64,None
+135,McKenzie Regional Hospital,McKenzie,Tennessee,7,Neither,PPS,September,2018,29,None
+134,Sayre Community Hospital,Sayre,Oklahoma,7.2,Micro,PPS,August,2018,22,None
+133,Chestatee Regional Hospital,Dahlonega,Georgia,2,Neither,PPS,July,2018,38,None
+132,Stamford Memorial Hospital,Stamford,Texas,7.1,Metro,PPS,July,2018,22,"Walk-in clinic, labs,
+radiology, and PT"
+131,"Twin Rivers Regional Medical
+Center",Kennett,Missouri,4,Micro,PPS,June,2018,100,None
+130,"Coalinga Regional Medical
+Center",Coalinga,California,4,Metro,SCH,May,2018,22,None
+129,Moses-Ludington Hospital,Ticonderoga,New York,7,Neither,CAH,April,2018,15,"Emergency and
+outpatient center"
+128,Our Community Hospital,Scotland Neck,North Carolina,10.1,Micro,CAH,December,2017,20,"Long term care
+and assisted living."
+127,Weimar Medical Center,Weimar,Texas,10,Neither,PPS,November,2017,38,None
+,,,,,,,,,,"Emergency,"
+,,,,,,,,,,"outpatient, and"
+126,Lake Shore Health Care Center,Irving,New York,10.1,Micro,PPS,November,2017,25,
+,,,,,,,,,,substance
+,,,,,,,,,,treatment
+125,"Sandhills Regional Medical
+Center",Hamlet,North Carolina,4,Micro,PPS,November,2017,64,None
+124,"Pioneer Community Hospital of
+Patrick County",Stuart,Virginia,6,Neither,CAH,September,2017,25,None
+123,Care Regional Medical Center,Aransas Pass,Texas,4.1,Metro,PPS,August,2017,63,None
+122,"East Texas Medical Center-
+Trinity",Trinity,Texas,7.2,Micro,MDH,August,2017,45,None
+121,Campbellton-Graceville Hospital,Graceville,Florida,7.1,Neither,CAH,June,2017,25,None
+120,Copper Basin Medical Center,Copperhill,Tennessee,10.1,Metro,CAH,May,2017,21,Emergency room
+,,,,,,,,,,None. Services
+,,,,,,,,,,moved to a new
+119,Davie Medical Center- Mocksville,Mocksville,North Carolina,7.1,Metro,PPS,March,2017,10,
+,,,,,,,,,,building in an
+,,,,,,,,,,urban community.
+118,Gulf Coast Medical Center,Wharton,Texas,7.1,Micro,PPS,November,2016,94,None
+117,Nix Community General Hospital,Dilley,Texas,7,Neither,PPS,September,2016,18,None
+116,Quitman County Hospital,Marks,Mississippi,10.1,Neither,CAH,September,2016,25,None
+115,North Georgia Medical Center,Ellijay,Georgia,7,Neither,PPS,June,2016,40,Emergency room
+114,Epic Medical Center,Eufaula,Oklahoma,10.2,Neither,MDH,May,2016,33,Urgent care facility
+113,"Tennova Healthcare McNairy
+Regional",Selmer,Tennessee,7,Neither,MDH,May,2016,26,None
+,,,,,,,,,,"Outpatient, lab,"
+,Memorial Hospital & Physician,,,,,,,,,
+,,,,,,,,,,"physical therapy,"
+,,Frederick,Oklahoma,7.1,Neither,SCH,March,2016,37,
+112,Group,,,,,,,,,and nursing home.
+111,"SoutheastHEALTH Center of
+Reynolds County",Ellington,Missouri,2,Neither,CAH,March,2016,21,None
+110,New Horizons Medical Center,Owenton,Kentucky,10.2,Neither,CAH,February,2016,25,Radiology and labs
+109,Westlake Regional Hospital,Columbia,Kentucky,7,Neither,MDH,February,2016,49,"ER, outpatient, and
+primary care
+services."
+108,Southern Palmetto Hospital,Barnwell,South Carolina,7.1,Neither,SCH,January,2016,30,None
+107,St. Mary’s Hospital,Streator,Illinois,4,Micro,PPS,January,2016,94,"24-hour urgent
+care and
+outpatient services"
+106,Albany Area Hospital,Albany,Minnesota,2,Metro,CAH,December,2015,17,None
+105,"Pioneer Community Hospital of
+Newton",Newton,Mississippi,7,Neither,CAH,December,2015,21,None
+104,"Merit Health Natchez-
+Community Campus",Natchez,Mississippi,4,Micro,PPS,November,2015,101,"None. Services
+consolidated with
+another hospital."
+103,"Southern Maine Health Care-
+Sanford Medical Center",Sanford,Maine,4.1,Metro,PPS,October,2015,46,"24-hour ER and
+outpatient services"
+102,"Novant Health Franklin Medical
+Center",Louisburg,North Carolina,7,Metro,PPS,October,2015,70,"Emergency,
+imaging, and
+behavioral health"
+101,Mercy Hospital Independence,Independence,Kansas,7.2,Micro,PPS,October,2015,41,"Outpatient clinic at
+old location; ER
+dept. 2 miles away"
+100,Nye Regional Medical Center,Tonopah,Nevada,5,Micro,SCH,August,2015,10,None
+99,"Parkland Health Center- Weber
+Rd",Farmington,Missouri,4.1,Micro,RRC,August,2015,98,None
+98,Cochise Regional,Douglas,Arizona,4,Metro,CAH,July,2015,25,None
+97,United Regional Medical Center,Manchester,Tennessee,4,Micro,PPS,July,2015,53,"None. Services
+consolidated with
+another hospital."
+96,"Parkview Adventist Medical
+Center",Brunswick,Maine,4.1,Metro,PPS,June,2015,55,Urgent Care
+95,"Hunt Regional Community
+Hospital of Commerce",Commerce,Texas,7.2,Metro,CAH,May,2015,24,None
+94,"Yadkin Valley Community
+Hospital",Yadkinville,North Carolina,2,Metro,CAH,May,2015,15,None
+93,Marlboro Park Hospital,Bennettsville,South Carolina,4,Micro,PPS,April,2015,94,None
+92,Parkridge West Hospital,Jasper,Tennessee,7.1,Metro,PPS,April,2015,50,"Emergency,
+imaging and lab
+services"
+91,Parkway Regional Hospital,Fulton,Kentucky,7.2,Micro,PPS,March,2015,48,None
+90,Kilmichael Hospital,Kilmichael,Mississippi,8,Neither,MDH,January,2015,19,Rural Health Clinic
+89,"East Texas Medical Center-
+Mount Vernon","Mount
+Vernon",Texas,9,Neither,MDH,December,2014,49,"ETMC First
+Physicians clinic
+and urgent care
+center."
+88,"East Texas Medical Center-
+Clarksville",Clarksville,Texas,7.2,Neither,MDH,December,2014,30,None
+87,"East Texas Medical Center-
+Gilmer",Gilmer,Texas,7.1,Metro,PPS,October,2014,37,None
+86,Doctors Hospital of Nelsonville,Nelsonville,Ohio,7.2,Micro,CAH,October,2014,25,"Emergency and
+Outpatient facility"
+85,Sac-Osage Hospital,Osceola,Missouri,9,Neither,SCH,September,2014,47,None
+84,Haywood Park Community,Brownsville,Tennessee,7.1,Neither,MDH,July,2014,36,"Urgent Care
+Center &
+Outpatient Care"
+83,"Lower Oconee Community
+Hospital",Glenwood,Georgia,10.2,Neither,CAH,June,2014,25,None
+82,Tilden Community Hospital,Tilden,Nebraska,10.2,Neither,CAH,June,2014,20,Outpatient Center
+81,Vidant Pungo Hospital,Belhaven,North Carolina,10.2,Micro,CAH,June,2014,25,None
+80,Mid-Valley Hospital,Peckville,Pennsylvania,1,Metro,CAH,June,2014,25,"Urgent Care &
+Outpatient Center"
+79,Nicholas County Hospital,Carlisle,Kentucky,10.2,Neither,CAH,May,2014,16,None
+78,Good Shepherd Medical Center,Linden,Texas,10.1,Neither,CAH,April,2014,25,None
+77,North Adams Regional Hospital,North Adams,Massachusetts,4.1,Metro,MDH,March,2014,98,"24-hour
+Emergency
+Facility"
+76,Lake Whitney Medical Center,Whitney,Texas,10.1,Neither,MDH,March,2014,49,None
+75,Gibson General Hospital,Trenton,Tennessee,7,Neither,MDH,January,2014,41,"Urgent &
+outpatient"
+74,Humboldt General Hospital,Humboldt,Tennessee,7.1,Neither,PPS,January,2014,42,"Emergency
+Department &
+Outpatient Center"
+73,Florala Memorial Hospital,Florala,Alabama,3,Neither,PPS,December,2013,22,Primary care clinic
+72,,,,,,,,,,24-hour
+,Starr Regional Medical Center-,,,,,,,,,Emergency
+,,Etowah,Tennessee,7.2,Micro,MDH,December,2013,60,
+,Etowah,,,,,,,,,department and
+,,,,,,,,,,wound care
+71,"Wise Regional Health System-
+Bridgeport",Bridgeport,Texas,7,Metro,PPS,December,2013,35,"Urgent Care and
+Ambulatory Center"
+70,St. Andrews Hospital,"Boothbay
+Harbor",Maine,10,Neither,CAH,October,2013,25,"24-hour Urgent
+Care
+Center"
+69,Blowing Rock Hospital,Blowing Rock,North Carolina,10.1,Micro,CAH,October,2013,25,"Skilled Nursing &
+Rehab Facility"
+Count,Hospital,City,State,RUCAii,CBSAiii,"Medicare
+Payment
+Type iv","Closure
+Month","Closure
+Year",# of Beds,Current Status
+68,Lee Regional Medical Center,"Pennington
+Gap",Virginia,10.1,Neither,MDH,October,2013,70,None
+67,Charlton Memorial Hospital,Folkston,Georgia,2,Neither,CAH,August,2013,15,None
+66,"Patient’s Choice Medical
+Center of Humphreys County",Belzoni,Mississippi,7.2,Neither,CAH,August,2013,25,None
+65,Shelby Regional Medical Center,Center,Texas,7.2,Neither,PPS,July,2013,54,None
+64,Corcoran District Hospital,Corcoran,California,4.1,Metro,PPS,March,2013,32,Rural Health Clinic
+63,Calhoun Mem Hospital,Arlington,Georgia,2,Neither,CAH,March,2013,25,None
+62,Stewart-Webster Hospital,Richland,Georgia,10.1,Neither,CAH,March,2013,25,None
+61,Elba General Hospital,Elba,Alabama,10.2,Micro,MDH,February,2013,20,"Skilled Nursing &
+Rehab Facility"
+60,Renaissance Hospital Terrell,Terrell,Texas,4.1,Metro,PPS,February,2013,106,None
+59,Chilton Medical Center,Clanton,Alabama,7.1,Metro,PPS,November,2012,27,None
+58,"Riverview Regional Medical
+Center South",Carthage,Tennessee,5,Metro,CAH,August,2012,25,"Assisted living and
+skilled nursing"
+57,Muskogee Community Hospital,Muskogee,Oklahoma,4,Micro,PPS,July,2012,45,"East campus of
+new Eastar Health
+System"
+Count,Hospital,City,State,RUCAii,CBSAiii,"Medicare
+Payment
+Type iv","Closure
+Month","Closure
+Year",# of Beds,Current Status
+56,Florence Community Healthcare,Florence,Arizona,4.1,Metro,CAH,June,2012,25,None
+55,Hart County Hospital,Hartwell,Georgia,7,Neither,MDH,May,2012,82,None
+54,Cheboygan Memorial Hospital,Cheboygan,Michigan,7,Neither,CAH,April,2012,25,"24-hr Emergency
+Dept & Outpatient
+Services Center"
+53,"Saint Catherine Medical Center
+Fountain Springs",Ashland,Pennsylvania,7.2,Micro,PPS,April,2012,53,None
+52,"Bamberg County Memorial
+Hospital",Bamberg,South Carolina,7.2,Neither,PPS,April,2012,59,None
+51,"Physicians Choice Hospital-
+Fremont",Fremont,Ohio,4,Micro,PPS,March,2012,8,None
+50,"Hualapai Mountain Medical
+Center",Kingman,Arizona,4,Metro,PPS,September,2011,70,"Acute
+Rehabilitation"
+49,"SouthWest Alabama Medical
+Center",Thomasville,Alabama,7.1,Neither,PPS,August,2011,27,None
+48,Central Kansas Medical Center,Great Bend,Kansas,4,Micro,"Re-based
+SCH",April,2011,41,"Renamed St. Rose
+Ambulatory &
+Surgical Center"
+47,Randolph Medical Center,Roanoke,Alabama,7.2,Neither,CAH,March,2011,12,None
+46,Franciscan Skemp Medical Center,Arcadia,Wisconsin,7,Neither,CAH,March,2011,25,"Mayo clinic
+remains"
+45,Lakeside Medical Center,Pine City,Minnesota,7.1,Neither,PPS,December,2010,10,Nursing home
+,Holy Infant Hospital,Hoven,South Dakota,10,Neither,Re-based,October,2010,22,Clinic open 2-3
+43,Kingsburg Medical Center,Kingsburg,California,4.1,Metro,PPS,May,2010,15,None
+42,Crawley Memorial Hospital,Boiling Springs,North Carolina,5,Micro,MDH,December,2009,60,None
+41,Pike County Hospital,Murfreesboro,Arkansas,10,Neither,MDH,November,2009,32,
+40,"N M Holderman Memorial
+Hospital",Yountville,California,7.1,Metro,PPS,August,2009,20,"Skilled Nursing
+Facility"
+39,Woodland Medical Ctr,Cullman,Alabama,4,Micro,MDH,July,2009,50,
+38,Amsterdam Memorial Hospital,Amsterdam,New York,2,Micro,PPS,June,2009,24,"Merged with St.
+Mary’s Hospital
+and became an
+Outpatient Clinic"
+37,Jenkins Community Hospital,Jenkins,Kentucky,5,Neither,CAH,May,2009,25,Primary Care Clinic
+36,Doctors Hospital of Opelousas,Opelousas,Louisiana,2,Micro,PPS,April,2009,117,"Long term care,
+emergency, and
+psychiatric center"
+35,Richardton Health Center,Richardton,North Dakota,10,Micro,CAH,April,2009,25,Nursing home
+34,"Albert Lindley Lee Memorial
+Hospital",Fulton,New York,4.1,Metro,PPS,April,2009,67,"Urgent care
+center, imaging
+lab, occup & phys
+therapy"
+33,Wm B Kessler Memorial Hospital,Hammonton,New Jersey,4.1,Metro,PPS,March,2009,83,None
+32,Trinity Community Hospital,Jasper,Florida,7.1,Neither,PPS,August,2008,42,None
+31,Dickerson Memorial Hospital,Jasper,Texas,7,Neither,PPS,July,2008,24,
+30,"Richwood Area Community
+Hospital",Richwood,West Virginia,8.1,Neither,CAH,June,2008,25,
+29,Indian Valley Hospital,Greenville,California,8,Neither,SCH,April,2008,26,None
+28,Taylor Telfair Regional Hospital,McRae,Georgia,7,Neither,CAH,April,2008,15,
+27,Deer Park Hospital,Deer Park,Washington,2,Metro,CAH,March,2008,25,
+26,"Owyhee Community Health
+Facility",Owyhee,Nevada,10,Micro,CAH,November,2007,15,Health clinic
+25,"Five Counties Hospital - Critical
+Access Hospital",Lemmon,South Dakota,10,Neither,CAH,October,2007,4,Nursing home
+24,Pawnee Municipal Hospital,Pawnee,Oklahoma,10,Metro,PPS,August,2007,25,
+23,Ft Yuma PHS Indian Hospital,Yuma,Arizona,1,Metro,CAH,June,2007,15,
+22,Tuolumne General Hospital,Sonora,California,4,Micro,PPS,June,2007,80,
+,,,,,,,,,,Reopened in 2010
+,,,,,,,,,,as behavioral
+21,,,,,,,,,,"health center,"
+,,,,,,,,,,operated by
+,St Lukes Hospital,Bluefield,West Virginia,4,Micro,MDH,May,2007,79,Princeton
+,,,,,,,,,,Community Hosp
+20,Divine Providence Health Center,Ivanhoe,Minnesota,10,Neither,CAH,March,2007,18,Skilled NursingFacility
+19,"Frye Regional Medical Center
+Alexander Campus",Taylorsville,North Carolina,2,Metro,CAH,February,2007,23,
+18,"St Joseph's Hospital of
+Huntingburg",Huntingburg,Indiana,5,Micro,CAH,January,2007,25,
+17,Guyan Valley Hospital,Logan,West Virginia,2,Micro,CAH,December,2006,8,
+16,Leelanau Memorial Health Center,Northport,Michigan,10,Micro,CAH,September,2006,23,"LTC unit, fitness
+center, rural
+health clinic, and
+24-hour ED."
+15,"Mission Family Health Center
+(Yancey Community Medical Ctr)",Burnsville,North Carolina,2,Neither,CAH,September,2006,6,None
+14,Cedar Vale Community Hospital,Cedar Vale,Kansas,10,Neither,CAH,August,2006,25,None
+13,Chowchilla District Mem Hospital,Chowchilla,California,4,Metro,PPS,June,2006,24,"Skilled Nursing
+Facility"
+12,Dos Palos Memorial Hospital,Dos Palos,California,7.2,Metro,PPS,June,2006,17,"Rural Health Clinic
+and Skilled Nursing
+Facility"
+11,Philipsburg Area Hospital,Philipsburg,Pennsylvania,2,Metro,CAH,April,2006,25,None
+10,Good Hope Hospital,Erwin,North Carolina,4.3,Micro,PPS,April,2006,43,
+9,Cornerstone Healthcare of Illinois,Carmi,Illinois,7,Neither,CAH,December,2005,25,Nursing Facility
+8,Gadsden Community Hospital,Quincy,Florida,2,Metro,CAH,November,2005,25,"ED Ctr in 2010 and
+renamed as CRMC-
+Gadsden memorial
+campus"
+7,Newport Hosp And Clinic,Newport,Arkansas,7,Neither,PPS,October,2005,86,
+,,,,,,,,,,Reopened as an
+,,,,,,,,,,Emergency Care
+,,,,,,,,,,"Facility, renamed"
+,,,,,,,,,,Tri-Town Regional
+6,The Hospital,Sidney,New York,7.2,Neither,MDH,August,2005,45,Hospital
+5,Fayette Memorial Hospital,La Grange,Texas,7,Neither,PPS,July,2005,24,
+4,Deleon Hospital,De Leon,Texas,10,Neither,CAH,July,2005,14,
+3,Minnewaska District Hosp,Starbuck,Minnesota,10,Neither,CAH,June,2005,19,
+,,,,,,,,,,Bought by local
+,,,,,,,,,,hospital & used as
+,Kings Daughters Hospital-,,,,,,,,,rehab ctr/nursing
+2,Greenville,Greenville,Mississippi,4,Micro,PPS,March,2005,99,home
+,,,,,,,,,,Building razed &
+1,Gulf Pines Hospital,Port Saint Joe,Florida,7.1,Metro,PPS,March,2005,45,land sold-2015
