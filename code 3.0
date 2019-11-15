@@ -15,7 +15,6 @@ import pandas as pd
 import seaborn as sns
 
 sns.set(style="white", color_codes=True)
-%matplotlib inline
 
 #Vizualisation
 df = pd.read_csv("Texas1.csv", header=None)
