@@ -1,0 +1,69 @@
+#import folium
+import folium
+
+#load map
+m = folium.Map(location=[29.3116, - 96.1027])
+m = folium.Map(
+    location=[29.3116, - 96.1027],
+    zoom_start=12,
+    tiles='Stamen Terrain'
+
+#add markers for hospital closures
+folium.Marker(
+    location=[32.673466, -95.709404],
+    popup='Texas General',
+    icon=folium.Icon(color='blue')
+).add_to(m)
+folium.Marker(
+    location=[32.88, 100],
+    popup='Hamlin Mem',
+    icon=folium.Icon(color='blue')
+).add_to(m)
+folium.Marker(
+    location=[32.25, 100],
+    popup='Chillia Hosp',
+    icon=folium.Icon(color='blue')
+).add_to(m)
+folium.Marker(
+    location=[40.858027, -96.975975],
+    popup='Little River Cameron',
+    icon=folium.Icon(color='blue')
+).add_to(m)
+folium.Marker(
+    location=[30.6555, -97.00],
+    popup='little River Rockdale',
+    icon=folium.Icon(color='blue')
+).add_to(m)
+folium.Marker(
+    location=[32.9454, -29.7027],
+    popup='Stamford Mem',
+    icon=folium.Icon(color='blue')
+).add_to(m)
+folium.Marker(
+    location=[27.9095, -97.1506],
+    popup='Care Regional',
+    icon=folium.Icon(color='blue')
+).add_to(m)
+folium.Marker(
+    location=[33.2101, -97.7548],
+    popup='Wise Regional Health',
+    icon=folium.Icon(color='blue')
+).add_to(m)
+folium.Marker(
+    location=[30.9452, -95.3755],
+    popup='East Texas Med Center',
+    icon=folium.Icon(color='blue')
+).add_to(m)
+folium.Marker(
+    location=[29.7027, -96.78],
+    popup='Weimar Med Center',
+    icon=folium.Icon(color='blue')
+).add_to(m)
+folium.Marker(
+    location=[29.3116, - 96.1027],
+    popup='Golf Coast Med Center',
+    icon=folium.Icon(color='blue')
+).add_to(m)
+
+#load map
+m
