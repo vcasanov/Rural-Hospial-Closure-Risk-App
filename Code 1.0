@@ -1,0 +1,24 @@
+#importing the csv file in jupyter notebook
+import pandas as pd
+import pandas as pd
+df = pd.read_csv("Ruhosp.csv")
+df
+#Ruhosp.csv is the file to explore
+#https://pythonfund-fkouako1.notebooks.azure.com/j/notebooks/Rural%20hospitalcode.ipynb
+#(See the repository of Bonnie McDaniel at https://github.com/ksu-hmi/Hospital-Dashboard)
+# removing missing data
+df.dropna(how='any')
+# creating the first 30 columns
+df[0:30]
+# rename df by new_data after droping missing data
+#What is the current status of Hospital the most affected by closure?
+new_data['Current Status'].value_counts()
+Which state has the most of closed rural hospital?
+new_data.groupby('State').size()
+df_state.plot.bar()
+plt.axhline(0, color = 'k');
+df_state.plot.hist(alpha = 0.5)
+df_state.diff().hist(color = 'k', alpha = 0.5, bins = 50)
+df_state.plot.pie(figsize = (7, 7))
+df_current = new_data['Current Status'].value_counts()
+

@@ -1,0 +1,19 @@
+import pandas as pd
+import numpy as nm
+import matplotlib.pyplot as plt
+
+df = pd.read_csv("Ruhosp.csv")
+df
+new_data = df.dropna(how='any')
+df[0:30]
+new_data['Current Status'].value_counts()
+
+df_state = new_data.groupby('State').size()
+ 
+df_state.plot.bar()
+plt.axhline(0, color = 'k');
+df_state.plot.hist(alpha = 0.5)
+df_state.diff().hist(color = 'k', alpha = 0.5, bins = 50)
+df_state.plot.pie(figsize = (7, 7))
+
+df_current = new_data['Current Status'].value_counts()
