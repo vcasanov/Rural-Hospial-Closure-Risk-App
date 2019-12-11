@@ -10,6 +10,7 @@
 9. DONE. Using folium, plot the hospital closures on a map for each state (starting with state with largest number of closures)
 10. DONE Create project webpage template via Python Flask 
 11. Code Flask page to enable user to input state and visualize hospital closures on a map
+12. Using the flask map, link closure data to the plotted points
 12. Use code to analyze dataset to help determine which variables factor into a hospital's closure.
 13. Separate variables on supposed impact to hospital closure.
 14. Write documentation for final project and create short presentation about the project
