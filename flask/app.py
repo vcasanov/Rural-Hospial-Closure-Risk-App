@@ -39,7 +39,7 @@ def state():
 @app.route('/')
 def home():
     
-    return render_template("home.html",State="")
+    return render_template("home.html")
 
 @app.route('/about/')
 def about():
