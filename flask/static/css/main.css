@@ -5,10 +5,6 @@ body {
     color: rgb(107, 141, 58);
   }
   
-  /*
-   * Formatting the header area
-   */
-  
   header {
     background-color: #000000;
     height: 35px;
@@ -30,10 +26,7 @@ body {
     text-decoration: none;
   }
   
-  /*
-   * Center the body content
-   */
-  
+ 
   .container {
     width: 1200px;
     margin: 0 auto;
