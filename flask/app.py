@@ -16,7 +16,7 @@ class Todo(db.Model):
         return '<Task %r>' %self.id
 
 @app.route('/', methods= ['POST', 'GET'])
-def home():
+def state():
     if request.method == 'POST': 
         pass
 
@@ -27,6 +27,19 @@ def home():
 
     else:
         return render_template('home.html')
+
+#@app.route('/state', methods=['POST'])
+#def state():
+    #inputName = request.form['State']
+    #ip = request.remote_addr
+    #inputName = inputName.upper()+" hi!  Visiting from " + str(ip)
+    #need if statements to bring up each state closure data
+    #return render_template("home.html",State=inputName)
+
+@app.route('/')
+def home():
+    
+    return render_template("home.html",State="")
 
 @app.route('/about/')
 def about():
