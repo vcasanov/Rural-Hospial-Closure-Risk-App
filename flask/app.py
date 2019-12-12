@@ -16,7 +16,7 @@ class Todo(db.Model):
         return '<Task %r>' %self.id
 
 @app.route('/', methods= ['POST', 'GET'])
-def index():
+def home():
     if request.method == 'POST': 
         pass
 
@@ -26,7 +26,11 @@ def index():
         #points on map for each hospital closure link to indv closure data
 
     else:
-        return render_template('index.html')
+        return render_template('home.html')
+
+@app.route('/about/')
+def about():
+    return render_template("about.html")
 
 if __name__ == '__main__':
     app.run(debug=True)
