@@ -7,9 +7,10 @@
 6. DONE. Watch pandas tutorial from https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python. Install and run pandas for dataset - Francis
 7. DONE. Write and test code to import dataset
 8. DONE. Make any modifications to dataset to remove missing data
-9. Use code to analyze dataset to help determine which variables factor into a hospital's closure. 
-10. Separate variables on supposed impact to hospital closure.
-11. 
-12. Review and select one of the plotting tools in python and determine best tool to achieve goal of project: matploblib or plotly
-13. Search github for code to display barcharts and/or line graphs for selected dashboard tool - Plotly and Plotlyexpress; utilized github repositories and online user guides
+9. DONE. Using folium, plot the hospital closures on a map for each state (starting with state with largest number of closures)
+10. DONE Create project webpage template via Python Flask 
+11. Code Flask page to enable user to input state and visualize hospital closures on a map
+12. Using the flask map, link closure data to the plotted points
+12. Use code to analyze dataset to help determine which variables factor into a hospital's closure.
+13. Separate variables on supposed impact to hospital closure.
 14. Write documentation for final project and create short presentation about the project
